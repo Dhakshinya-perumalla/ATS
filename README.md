@@ -1,7 +1,7 @@
 # ATS
-It is an ATS score checker application.
+#It is an ATS score checker application.
 
-code:
+#code:
 import PyPDF2
 def extract_pages(pdf_path):
   extracted_text=""
